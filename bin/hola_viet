@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'hola_viet'
+puts HolaViet.hi(ARGV[0])
